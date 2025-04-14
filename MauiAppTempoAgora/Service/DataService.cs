@@ -46,6 +46,7 @@ namespace MauiAppTempoAgora.Service
                         sunrise = sunrise.ToString(),
                         sunset = sunset.ToString()
 
+
                     };
 
                 }
